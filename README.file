@@ -1,0 +1,18 @@
+# Timetable Project
+
+## Description
+A brief description of your project and its purpose. For example:
+
+This project aims to provide a user-friendly timetable management system, helping users organize and manage their schedules efficiently. The application allows users to input their events and view them in a clear and accessible format.
+
+## Features
+- Feature 1: Description of the feature.
+- Feature 2: Description of another feature.
+- Feature 3: Description of a third feature.
+
+## Installation
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:Anembit/timetable.git
